@@ -1,0 +1,20 @@
+name: John Doe
+email: john.doe@example.com
+phone: '+1-234-567-890'
+summary: Experienced software developer...
+education:
+  - degree: B.Sc. Computer Science
+    institution: University X
+    year: 2015
+experience:
+  - company: Company A
+    position: Software Engineer
+    start_date: Jan 2016
+    end_date: Dec 2018
+    responsibilities:
+      - Developed software
+      - Collaborated with team
+skills:
+  - Python
+  - JavaScript
+  - SQL
